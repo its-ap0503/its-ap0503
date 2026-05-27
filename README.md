@@ -89,15 +89,7 @@ func main() {
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=its-ap0503&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7)
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
