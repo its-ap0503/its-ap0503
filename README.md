@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Alok%20Pandey&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Systems%20Thinker%20%7C%20Open%20Source%20Enthusiast&descAlignY=58&descAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+systems+that+scale+%F0%9F%9A%80;C%2B%2B+%7C+Python+%7C+Golang+developer;Clean+code.+Fast+execution.+No+fluff.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+systems+that+scale+%F0%9F%9A%80;Python+%2B+Flask+backend+developer;Serverless+%7C+Event-driven+%7C+Edge+computing;Clean+code.+Fast+execution.+No+fluff.)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://github.com/its-ap0503">
@@ -11,7 +11,7 @@
   <a href="https://github.com/its-ap0503?tab=followers">
     <img src="https://img.shields.io/github/followers/its-ap0503?label=Followers&style=flat-square&color=7c3aed" alt="Followers" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Backend%20Development-7c3aed?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Serverless-7c3aed?style=flat-square" />
   <img src="https://img.shields.io/badge/Lives-India-7c3aed?style=flat-square" />
 </p>
 
@@ -21,41 +21,37 @@
 
 ## 🧠 About Me
 
-```go
-package main
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Alok Pandey"
+        self.role = "Backend Developer"
+        self.languages = ["Python", "C++", "Golang"]
+        self.backend = ["Flask", "REST APIs", "Webhooks"]
+        self.infra = ["Redis", "Cloudflare Workers", "Docker"]
+        self.interests = [
+            "Event-driven architecture",
+            "Serverless & edge computing",
+            "Distributed systems",
+            "Open source",
+        ]
+        self.current_focus = "Building serverless, event-driven backend systems"
 
-import "fmt"
+    def say_hello(self):
+        print(f"Hello World! I'm {self.name} 👋")
 
-type Developer struct {
-    Name        string
-    Role        string
-    Languages   []string
-    Interests   []string
-    CurrentFocus string
-}
 
-func main() {
-    me := Developer{
-        Name:      "Alok Pandey",
-        Role:      "Backend Developer",
-        Languages: []string{"C++", "Python", "Golang"},
-        Interests: []string{
-            "Systems Programming",
-            "High-Performance APIs",
-            "Distributed Systems",
-            "Open Source",
-        },
-        CurrentFocus: "Building fast, reliable backend systems",
-    }
-    fmt.Printf("Hello World! I'm %s 👋\n", me.Name)
-}
+if __name__ == "__main__":
+    me = Developer()
+    me.say_hello()
 ```
 
-- 🔧 I build **backend systems** that are fast, clean, and maintainable
-- ⚡ Passionate about **performance**, **concurrency**, and **low-level systems**
-- 🌱 Always learning — currently diving deeper into **distributed systems** and **microservices**
-- 💬 Ask me about **C++**, **Python**, or **Go** — I love talking code
-- 📫 Reach me at: **[alokpandey.bitm@gmail.com]**
+- 🔧 I build **backend systems** with Flask, REST APIs, and webhook-driven pipelines
+- ⚡ Into **event-driven & serverless architecture** — Cloudflare Workers, edge compute, async processing
+- 🗄️ Comfortable wiring up **Redis** for fast, ephemeral, TTL-based storage
+- 🌱 Currently deep in **email infrastructure**: DNS/MX routing, RFC 822 parsing, webhook security
+- 💬 Ask me about **Flask**, **Python**, or **Cloudflare Workers** — I love talking code
+- 📫 Reach me at: **alokpandey.bitm@gmail.com**
 
 ---
 
@@ -64,15 +60,19 @@ func main() {
 <div align="center">
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,go,js,html,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,go,js,html,css&theme=dark)](https://skillicons.dev)
 
-### Tools & Technologies
-[![My Skills](https://skillicons.dev/icons?i=linux,git,docker,postgres,redis,flask,cloudflare,bash,vscode,vim&theme=dark)](https://skillicons.dev)
+### Backend & Infra
+[![My Skills](https://skillicons.dev/icons?i=flask,redis,cloudflare,docker,postgres,linux&theme=dark)](https://skillicons.dev)
+
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=git,bash,vscode,vim&theme=dark)](https://skillicons.dev)
 
 ### Currently Exploring
 [![My Skills](https://skillicons.dev/icons?i=kubernetes,grafana,nginx&theme=dark)](https://skillicons.dev)
 
 </div>
+
 ---
 
 ## 📊 GitHub Stats
@@ -88,8 +88,6 @@ func main() {
 
 ---
 
-
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -100,16 +98,25 @@ func main() {
 
 ---
 
-<!-- ## 🚀 Featured Projects -->
+## 🚀 Featured Project
 
-<!-- <div align="center">
+<div align="center">
 
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=its-ap0503&repo=&theme=midnight-purple&hide_border=true&bg_color=0d0d0d)](https://github.com/its-ap0503/YOUR_REPO_1)
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=its-ap0503&repo=YOUR_REPO_2&theme=midnight-purple&hide_border=true&bg_color=0d0d0d)](https://github.com/its-ap0503/YOUR_REPO_2)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=its-ap0503&repo=Tempmail-MailFlow&theme=midnight-purple&hide_border=true&bg_color=0d0d0d)](https://github.com/its-ap0503/Tempmail-MailFlow)
+
+**Tempmail-MailFlow** — a disposable email service built on a serverless, event-driven pipeline:
+Cloudflare Email Routing intercepts inbound mail → a Cloudflare Worker forwards the raw RFC 822
+message to a Flask backend via an authenticated webhook → the backend parses MIME headers and
+persists messages in Redis → the frontend polls for new mail in near real time.
+
+<p>
+  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
+</p>
 
 </div>
-
-> 💡 Replace `YOUR_REPO_1` and `YOUR_REPO_2` with your actual repository names. -->
 
 ---
 
