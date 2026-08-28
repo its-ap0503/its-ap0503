@@ -64,16 +64,15 @@ func main() {
 <div align="center">
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,go&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,go,js,html,css&theme=dark)](https://skillicons.dev)
 
 ### Tools & Technologies
-[![My Skills](https://skillicons.dev/icons?i=linux,git,docker,postgres,redis,bash,vscode,vim&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,git,docker,postgres,redis,flask,cloudflare,bash,vscode,vim&theme=dark)](https://skillicons.dev)
 
 ### Currently Exploring
 [![My Skills](https://skillicons.dev/icons?i=kubernetes,grafana,nginx&theme=dark)](https://skillicons.dev)
 
 </div>
-
 ---
 
 ## 📊 GitHub Stats
