@@ -11,7 +11,7 @@
   <a href="https://github.com/its-ap0503?tab=followers">
     <img src="https://img.shields.io/github/followers/its-ap0503?label=Followers&style=flat-square&color=7c3aed" alt="Followers" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Serverless-7c3aed?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Cloud-7c3aed?style=flat-square" />
   <img src="https://img.shields.io/badge/Lives-India-7c3aed?style=flat-square" />
 </p>
 
