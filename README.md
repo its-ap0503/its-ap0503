@@ -89,8 +89,6 @@ if __name__ == "__main__":
 
 <div align="center">
 
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=its-ap0503&repo=Tempmail-MailFlow&theme=midnight-purple&hide_border=true&bg_color=0d0d0d)](https://github.com/its-ap0503/Tempmail-MailFlow)
-
 **Tempmail-MailFlow** — a disposable email service built on a serverless, event-driven pipeline:
 Cloudflare Email Routing intercepts inbound mail → a Cloudflare Worker forwards the raw RFC 822
 message to a Flask backend via an authenticated webhook → the backend parses MIME headers and
