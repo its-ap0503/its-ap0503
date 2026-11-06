@@ -111,7 +111,7 @@ persists messages in Redis → the frontend polls for new mail in near real time
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alokpandey05)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alokpandey.bitm@gmail.com)[
-[![X](https://img.shields.io/twitter/follow/:user?link=https://x.com/pandeyalok05)](X)]
+[![X](https://img.shields.io/twitter/follow/:user?link=https://x.com/pandeyalok05)](https://x.com/pandeyalok05)]
 
 
 </div>
